@@ -38,7 +38,9 @@ export default function HeroSection() {
             </a>
           </div>
           <div className="mt-6 ">
-            <Button variant="gradient">Contact Me</Button>
+            <a href="mailto:ramaaryasutaweihan@gmail.com">
+              <Button variant="gradient">Contact Me</Button>
+            </a>
           </div>
         </div>
         <div className="hidden md:flex md:justify-center md:items-center ml-20">
