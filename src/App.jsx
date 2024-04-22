@@ -1,11 +1,13 @@
 import MyNavbar from "./components/Navbar";
 import HeroSection from "./components/Hero";
+import ProjectSection from "./section/Project";
 
 export default function App() {
   return (
-    <div className="bg-[#f0f8ff]">
+    <>
       <MyNavbar />
       <HeroSection />
-    </div>
+      <ProjectSection />
+    </>
   );
 }

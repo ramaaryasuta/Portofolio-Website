@@ -8,18 +8,17 @@ export default function HeroSection() {
         <CircularImg />
       </div>
       <div className="flex justify-center items-center mx-10">
-        <div className="flex flex-col justify-center items-center md:mr-10 md:items-start">
+        <div className="flex flex-col justify-center items-center md:mr-24 md:items-start">
           <h1 className="text-3xl font-bold">Software Engineer</h1>
           <p className="mt-4 text-lg">
             <div className="text-justify md:max-w-xl">
               Hello, I am
               <span className="text-blue-600"> Rama Aryasuta Weihan.</span>{" "}
               Fresh Graduate of Computer Engineering at Diponegoro University.
-              Detail-oriented and have various leadership and organization
-              experience. Excel at leadership, multimedia, mobile app
-              development, web development, and embedded system with arduino.
-              Have strong interest in technology especially in software and
-              embedded system.
+              Creative and have various leadership and organization experience.
+              Excel at leadership, multimedia, mobile app development, web
+              development, and embedded system with arduino. Have strong
+              interest in technology especially in software and embedded system.
             </div>
           </p>
           <br />
@@ -37,8 +36,10 @@ export default function HeroSection() {
               <img src="icons/github.svg" alt="Github" className="w-7" />
             </a>
           </div>
-          <div className="mt-6 ">
-            <Button variant="gradient">Contact Me</Button>
+          <div className="mt-6">
+            <a href="mailto:ramaaryasutaweihan@gmail.com">
+              <Button variant="gradient">Contact Me</Button>
+            </a>
           </div>
         </div>
         <div className="hidden md:flex md:justify-center md:items-center ml-20">
