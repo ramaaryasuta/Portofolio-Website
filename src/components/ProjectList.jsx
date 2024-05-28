@@ -1,14 +1,15 @@
 import ProjectCard from "./CardProject";
 import ProjectData from "../assets/projectData.json";
+import MyCard from "./MyCard";
 import { useState } from "react";
 
 export default function CarouselSection() {
   const [projectData, setProjectData] = useState(ProjectData.projects);
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 justify-center items-center">
+    <div className="grid grid-cols-1 lg:grid-cols-2">
       {projectData.map((project) => (
-        <ProjectCard
+        <MyCard
           key={project.id}
           title={project.title}
           desc={project.description}
