@@ -73,7 +73,6 @@ export default function MyNavbar() {
     window.innerWidth >= 960 && setOpenNav(false);
 
   React.useEffect(() => {
-    alert("Website is in progress"); // ALERT
     window.addEventListener("resize", handleWindowResize);
 
     return () => {
