@@ -4,7 +4,7 @@
       "id": 1,
       "title": "AQALSU Flood Monitoring and Mitigation",
       "description": "Application for monitoring flood using firebase and esp32 microcontroller",
-      "img": "../../public/project/aqalsu.png",
+      "img": "project/aqalsu.png",
       "tech": "flutter",
       "github": "https://github.com/ramaaryasuta/Ews_Captsone_Flood"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Ruang Baca Computer repository application ",
       "description": "Repository application for computer engineering departement library",
-      "img": "../../public/project/rbc.png",
+      "img": "project/rbc.png",
       "tech": "flutter",
       "github": "https://github.com/Ramaarya/ruangbacatekkom"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Oplet.id Booking Travell Application",
       "description": "Booking travel ticket application for oplet.id create using Flutter",
-      "img": "../../public/project/oplet.png",
+      "img": "project/oplet.png",
       "tech": "flutter",
       "github": "https://oplet.vercel.app/"
     }
