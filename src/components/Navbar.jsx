@@ -17,20 +17,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a
-          href="#"
-          className="flex items-center hover:text-blue-500 transition-colors"
-        >
-          Home
-        </a>
-      </Typography>
-      <Typography
-        as="li"
-        variant="small"
-        color="blue-gray"
-        className="p-1 font-medium"
-      >
-        <a
-          href="#"
+          href="#experience"
           className="flex items-center hover:text-blue-500 transition-colors"
         >
           Experience
@@ -43,7 +30,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a
-          href="#"
+          href="#project"
           className="flex items-center hover:text-blue-500 transition-colors"
         >
           Project
@@ -56,7 +43,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a
-          href="#"
+          href="mailto:ramaaryasutaweihan@gmail.com"
           className="flex items-center hover:text-blue-500 transition-colors"
         >
           Contact

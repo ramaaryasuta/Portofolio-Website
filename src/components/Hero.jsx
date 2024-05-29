@@ -3,7 +3,7 @@ import CircularImg from "./CircularImage";
 
 export default function HeroSection() {
   return (
-    <div className="py-6 md:py-16">
+    <div className="py-6 md:py-16 ">
       <div className="sm:col-span-1 md:hidden flex justify-center items-center mb-6">
         <CircularImg />
       </div>
@@ -42,7 +42,7 @@ export default function HeroSection() {
             </a>
           </div>
         </div>
-        <div className="hidden md:flex md:justify-center md:items-center ml-20">
+        <div className="hidden md:flex md:justify-center md:items-center ml-44">
           <CircularImg />
         </div>
       </div>
