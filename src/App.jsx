@@ -1,5 +1,6 @@
 import MyNavbar from "./components/Navbar";
 import HeroSection from "./components/Hero";
+import ExperinceSection from "./section/Experience";
 import ProjectSection from "./section/Project";
 
 export default function App() {
@@ -7,6 +8,7 @@ export default function App() {
     <>
       <MyNavbar />
       <HeroSection />
+      <ExperinceSection />
       <ProjectSection />
     </>
   );

@@ -1,4 +1,3 @@
-import ProjectCard from "./CardProject";
 import ProjectData from "../assets/projectData.json";
 import MyCard from "./MyCard";
 import { useState } from "react";
