@@ -23,6 +23,14 @@
       "img": "project/oplet.png",
       "tech": "flutter",
       "github": "https://oplet.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "Valorant Wikipedia",
+      "description": "Simple wikipedia application for Valorant database game",
+      "img": "project/valowiki.png",
+      "tech": "flutter",
+      "github": "https://github.com/ramaaryasuta/valorant_wiki"
     }
   ]
 }
