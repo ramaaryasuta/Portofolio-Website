@@ -7,9 +7,15 @@ const MyTab = () => {
     {
       name: "Experience",
       content: [
+         {
+          title: "Mezink (Singapore)",
+          role: "Flutter Developer (Remote)",
+          year: "June 2024 - Present",
+          desc: "Design, develop, and enhance new and existing features for the Mezink App and Campaign App Web by translating user-friendly interfaces from Figma to Flutter, ensuring smooth functionality and seamless user experiences, while proactively monitoring performance, identifying and addressing bugs, crashes, and other issues to deliver a reliable and high-quality product.",
+        },
         {
-          title: "FnDigital",
-          role: "Mobile Developer",
+          title: "FnDigital (Jakarta)",
+          role: "Mobile Developer (Remote)",
           year: "November 2023 - April 2024",
           desc: "Crafted an innovative travel order application leveraging the versatile Flutter framework, integrating seamless functionality and intuitive user experiences. Additionally, contributed to enhancing project scalability and efficiency by developing reusable components tailored to the project's UI design, ensuring consistency and ease of maintenance throughout the development process.",
         },
