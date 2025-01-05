@@ -27,7 +27,7 @@ export default function ProjectCard({ title, desc, img, tech, github }) {
         <Typography
           variant="md"
           color="gray"
-          className="mt-2 font-light text-justify"
+          className="mt-2 font-light text-justify line-clamp-2"
         >
           {desc}
         </Typography>

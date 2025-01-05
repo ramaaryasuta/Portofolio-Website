@@ -31,6 +31,14 @@
       "img": "project/valowiki.png",
       "tech": "flutter",
       "github": "https://github.com/ramaaryasuta/valorant_wiki"
+    }, 
+    {
+      "id": 5,
+      "title": "Nerdhub",
+      "description": "Unite and Thrive in Your Geekdom, Where Every Nerd Finds Their Place, Shares Their Passion, and Connects with Like-Minded Enthusiasts from Around the World.",
+      "img": "project/nerdhub.jpg",
+      "tech": "React",
+      "github": "https://nerdhub.vercel.app/"
     }
   ]
 }
